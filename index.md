@@ -1,4 +1,3 @@
-```markdown
 # Genspark Super Agent vs. Manus AI：自律型AIエージェントの比較分析レポート
 
 ## I. エグゼクティブサマリー
